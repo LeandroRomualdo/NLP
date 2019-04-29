@@ -1,0 +1,102 @@
+Muitos me perguntam porque comecei o Pipefy atuando globalmente desde o primeiro dia e o que nos levou a estarmos crescendo em mais de 110 países. Vou contar um pouco como é essa jornada e principalmente porque, em nossa humilde opinião, achamos que toda startup brasileira deveria fazer o mesmo.
+
+Poderíamos falar que isso aconteceu só por ambição, que eu queria criar um case de sucesso mundial brasileiro, que isso é cool e blá blá blá. A verdade é que eu ví um risco real do nosso negócio ser extinto nos próximos 5 anos a 10 anos caso nós tivéssemos focados somente no mercado local.
+
+Veja essa ameaça de forma absurdamente clara não só para o Pipefy mas para boa parte da indústria de software/mídia/conhecimento brasileira. Vou explicar a lógica…
+
+A verdade veio com um jantar em Telaviv…
+Tive a chance de trabalhar por alguns meses como consultor de produto em uma aceleradora baseada em Haifa, polo tecnológico israelense que fica a aproximadamente 1h de carro de Telaviv. Jantando com o CEO da aceleradora, perguntei como os israelenses eram tão bons e competitivos em escala global mesmo sendo um país tão pequeno. A resposta dele foi simples, direta e mudou minha forma de pensar:
+Alessio, somos o que somos justamente pelo motivo que você citou. Não temos mercado local, não temos indústria local, somos uma população pequena de 8 milhões de pessoas, cujo 1/3 trabalha para o governo, 1/3 para o exército ou algum fornecedor do exército… Não temos mercado local e justamente por não termos mercado local todo empreendedor israelense é obrigado a pensar e competir com qualidade global desde o primeiro dia do negócio. A gente empreende pensando em como vender para o mundo desde o começo e por esse motivo acabamos nos tornando globais. Os brasileiros focam no Brasil achando que é um mercado grande e seguro, mas enquanto isso o mundo anda muito mais rápido e a competição não respeita mais fronteiras…
+
+A partir daquela noite ficou claro para mim que meu próximo negócio seria global desde o primeiro dia de funcionamento.
+
+Winner takes all, everywhere
+No mercado tecnológico a riqueza está tendendo cada vez para o “winner takes all”. Isso significa que as empresas que possuírem o melhor produto e mais capital disponível para ganhar mercado tenderão a serem líderes de mercado, não só em seus países de origem mas em todo o mundo.
+
+Com a relação de compra ficando cada vez mais tecnológica e self service, há menos barreiras de entrada para empresas com atuação global dominarem completamente em todos os mercados. Veja alguns exemplos claros dessa mudança, de empresas que chegaram e dominaram / estão dominando completamente o mercado local:
+
+Entretenimento e Mídia: Netflix, Facebook, Youtube, Twitter, Instagram, Google, Linkedin e outros. Quem foi / será significativamente afetado: Globo, Catho, todos os grupos de mídia locais de TV e jornal e outros.
+Educação e conhecimento: Kindle, E-learning de maneira geral de Khan Academy a Coursera, Udemy a outras formas de aprendizado como Quora, Yahoo Respostas e outros. Quem foi / será significativamente afetado: editoras, grupos de educação, cursos técnicos e outros.
+Transporte: Uber. Quem foi / será significativamente afetado: todos os taxistas e bicheiros/coronéis/políticos donos de companhias de táxi. Quando o Uber colocar os carros autônomos pra rodar então meu amigo… o estrago vai ser maior ainda.
+Marketplaces: Hotéis.com, Mercado Livre, OLX, Airbnb. Quem foi / será significativamente afetado: Redes de hotéis locais, lojas de varejo de maneira geral e etc.
+Software SaaS: Dropbox, Amazon, Pipedrive, todos os ERP Globais, Shopify, New Relic e etc. Quem foi / será significativamente afetado: Quase todo mundo (todos nós) da indústria tecnológica nacional.
+Comunicação: Skype, WhatsApp, Snapchat e etc. Quem foi / será significativamente afetado: Telecoms.
+E-commerce: Amazon chegando definitivamente e 20% do ecommerce brasileiro que já é dominado por players chineses como Alibaba e similares. Quem foi / será significativamente afetado: Submarino, Americanas e outros.
+Quem escapa / escapa por um tempo?
+Intensivos em operação presencial local: operações que dependem de logística, ativos físicos como lojas físicas, mão de obra.
+
+Operações que trabalham com a legislação / burocracia local: (startups de NFE, controle financeiro, contabilidade)
+
+Por que atualmente isso acontece cada vez mais rápido e de forma mais intensa?
+As relações de compra estão cada vez mais self-service. Por ter mais acesso a informação, o consumidor está consumindo cada vez mais por canais de auto-atendimento. Seja usando o seu bankline para pagar as contas ou contratar um empréstimo, para assinar a Netflix, para comprar passagens aéreas, pedir um taxi via aplicativo ou reservar um apartamento no Airbnb. Se o consumidor tiver condições e segurança, ele vai preferir NÃO falar com um vendedor.
+Os canais de mídia / venda globais são de fácil acesso. Facebook Ads, Google Ads, Apple Store, Google Play e outras networks e marketplaces fazem com que os players de atuação internacional tenham acesso muito rápido a consumidores em qualquer lugar do mundo. Não precisa nem anunciar em português em alguns casos.
+O consumidor quer e pode ter a melhor solução e ela está a somente alguns cliques de distância. O cliente está cada vez mais self-service e o concorrente agora está a poucos cliques, é só passar o cartão de crédito.
+Idioma não é mais barreira. O internauta joga online, vê vídeos no YouTube, baixa séries, dá risada no 9Gag e consome uma avalanche de conteúdo global, independente de qual for o seu idioma nativo. Se for pensar nos economicamente ativos ou um pouco mais escolarizados então, essa realidade é ainda mais presente. Se for pensar nos early adopters então…
+Traduzir para o português é barato. O cara lança a ferramenta, assim que tem uma base significativa de usuários do Brasil (aqueles early adopters não sensíveis a barreira da língua), contrata um freela no Upwork ou no Fiver e traduz a po*** toda.
+Eles conseguem vender para o Brasil, de uma posição muito melhor que a nossa. Com mais grana, com gente mais experiente, sem a nossa burocracia, sem o nosso custo tributário, sem os nossos encargos trabalhistas… É só o consumidor brasileiro acessar o site e passar o cartão. Não tem dólar alto nem IOF extra que segurem. Isso é uma verdade para B2B e B2C. O próprio Google e Facebook até pouco tempo atrás não faturavam no Brasil.
+Quais são as consequências disso?
+Haverá um grande fluxo de riqueza do Brasil para o exterior nos próximos 10 a 20 anos. Justamente por essa condição “winner takes all” ser cada vez mais e mais forte e não respeitar mais fronteiras. Quem tiver mais competência e acesso a capital para se tornar o player global será o big winner.
+
+Considerando que o Brasil é um dos ambientes mais hostis do mundo para se empreender e que a maioria dos empreendedores brasileiros estão focados somente no mercado local, a não ser que haja uma mudança gigante, a atenção e o dinheiro irão migrar para os players internacionais. Iremos tomar uma bela surra, dentro de casa.
+
+Duvida? Faça o seguinte exercício…
+
+Um dos ambientes onde posso enxergar isso em estágio mais avançado é o consumo mobile (aquele que está explodindo no Brasil, já ouviu falar por aí?). Pegue o seu celular e repare em TODOS os aplicativos que você instalou. De todos os seus apps instalados, quantos são nacionais? Dos top 10 aplicativos que você mais usa, quantos são nacionais? Deu pra sentir o tamanho do estrago?
+
+Quer ficar ainda mais triste? Vai lá no ranking da App Store ou da Google Play e veja os top 100 downloads. Tente achar quantos são desenvolvidos por brasileiros…
+
+O que fazer então? Como cada um pode ajudar?
+Nós empreendedores: Nos preparar/focar para resolver problemas globais e para sermos líder globais em em nossos setores desde o primeiro dia de atuação. Se o segmento global que você mira é muito competitivo, não foque no mercado local, foque em OUTRO SEGMENTO onde você pode ser o melhor fornecedor em termos mundiais, o melhor cara pra resolver o problema.
+
+Ou seja… Idioma, go to market, qualidade técnica, ambição, postura, agressividade e tudo mais para ser o melhor do seu field. Go big or go home.
+
+Nós precisamos nos forçar a resolver problemas globais, ou seremos tipo sapo cozinhando em água quente achando que estamos seguros vendendo somente para o mercado local.
+
+Governo: Benchmark em Israel, Chile, países europeus de maneira geral. Porque especificamente esses países tem sucesso global: Mercado local muito pequeno. Os empreendedores precisam pensar global desde o dia 1 e há toda uma infra estrutura de auxílio para que projetos levantem vôo.
+
+Nos Estados Unidos, somente 0,2% do PIB é investido em venture capital e atualmente as empresas que receberam investimento geram 24% do PIB. Fucking 24% do PIB. Uma conta fácil de entender, não é? Não precisa ser muito esperto.
+
+VCs e anjos de maneira geral: Começar a defender teses de investimentos com potencial global. Vocês ditam a regra do jogo, se vocês subirem a barra e pedirem isso, o ecossistema vai brotar boas opções. Vantagens:
+
+Por todos os motivos já ditos aqui, significa que a investida terá melhores chances de sobreviver.
+É mais fácil conseguir 5 mil consumidores self-service e early adopters operando globalmente do que conseguir 5 mil consumidores self-service e early adopters olhando só para o Brasil.
+Custo em real, receita em dólar. Olha que lindo isso.
+Mercado global, exit de tamanho global. Mercado local, exit de tamanho local. O Brasil tem poucos unicórnios porque o mercado local não é grande o suficiente para justificar valuations bilionários.
+Um porrilhão de mais possibilidades de exit. Se conseguir tração no mercado americano então… perfeito. Se você olhar bem, fora os players internacionais que não estão muito interessados pelo Brasil nesse momento, há poucas empresas no Brasil com musculatura, caixa e disposição suficientes para fazer uma aquisição acima de 25 milhões de dólares.
+Globalmente, o negócio tem muito mais chance de parar em pé. Tenta pensar se existiria na indústria B2B mercado para um New Relic só para o mercado brasileiro, um Zapier, um Intercom, um Mixpanel. B2C? Um Giphy, Shutterstock, Lastpass ou similares.
+Olhando globalmente você pode se dar ao luxo de olhar para mercados mais de nicho, que você conhece/domina/tem experiência e pode ajudar o empreendedor não só com dinheiro, mas conhecimento específico do setor.
+Aos VCs limitados / medíocres: Parem de investir somente em “copycats” e parem com a comum pergunta estúpida “Quem está fazendo isso lá fora?” como forma de validação para ver se a idéia é viável ou não. Venture Capital é capital de risco, não capital de cópia.
+
+Como está sendo a jornada do Pipefy?
+Nada, nada glamurosa. Nem legal, nem fácil…
+Crescer fora é uma jornada dolorosa e ineficiente que nos faz cometer muitos, muitos erros. O que posso adiantar do caminho das pedras (até onde conseguimos chegar pelo menos):
+
+Idioma. Nada impossível, acostuma. Se começar com uma biblioteca de tradução desde o começo (em vez de marretar tudo na interface) vai fácil fácil. É só você construir, traduzir em seu inglês +- razoável de dev hustler não nativo e depois contratar um revisor nativo lá no Upwork, ou Fiver. Ainda vai ter alguns pequenos erros, mas nada que não possa ser corrigido. Foda mesmo é achar gente bilingue para dar suporte aos usuários e vender. Todo mundo diz que fala inglês, mas na hora que o bicho pega meu amigo… sobra pouca gente boa (e mais cara também).
+
+Go to market. Foda. Muito foda. Briga de foice em SEO, SEM, Inbound, eventos e o que mais existir. Competição em todo lugar, contra todos os players que você possa imaginar. Em âmbito global existe startup pra tudo. Gente experiente, com grana e que executa bem, muito bem. Startups feras não só do Vale mas também da Europa e Ásia. Aqui não tem pra onde correr e não tem atalho. Não é raro ver CPC a 30 dólares o clique. Outra coisa bem interessante é que os clientes americanos tendem a valorizar muito / dar mais espaço para startups de dentro da panela deles, também americanos. Logo, prepare-se para ter um pouco de rejeição sim. Pra eles, uma startup brasileira querendo competir com eles nos EUA é como uma startup da Bolívia, Suriname ou Guiana Francesa (e com muito menos dinheiro) competir conosco no Brasil. Sad, but true.
+
+Preconceito. Não é raro passarmos aperto por não sermos ex-Google ou ex-Facebook, ex-Stanford, passamos aperto por não termos a mesma sofisticação e traquejo com investidores, por não termos fluência perfeita, por termos deixado escapar uma tradução mal feita, por sermos brasileiros (sim… só pelo fato de sermos brasileiros mesmo, como ouvi em alto e bom som “don’t tell me that you are another fucking brazilian startup trying to copycat something from here and sell it in the local market…”. Como estamos saindo dessa: Comendo pelas beiradas. Apesar de termos muito orgulho de ser um projeto 100% nacional, nada em nosso site diz que somos brasileiros e pretendemos continuar assim por um bom tempo. Pelo menos até termos credibilidade e uma boa fatia de mercado.
+
+Funding. Os fundos brasileiros tendem a questionar o porque de você não focar no mercado local primeiro e também não irão querer pagar os valuations do vale do silício hahaha. Em relação ao valuation, sendo sincero, se eu fosse eles faria o mesmo, é lei da oferta/demanda. Como tem pouco capital de risco no Brasil, poucos projetos realmente competitivos e o poucas possibilidades de exit a realidade é essa mesmo. O que fizemos: Primeiro trouxemos investidores agressivos e sensacionais (Valor e Redpoint) que aceitaram apostar global e que também tinham muita experiência e boas conexões no vale do silício. Pegamos pouca grana, provamos que tínhamos potencial pra ser global, fomos para a 500 Startups e aí sim (depois de comer muita m****, executar muito, conseguir clientes early adopters em quase todos os cantos do mundo) fizemos a rodada seguinte no vale, sob termos americanos. =)
+
+PS: Você não irá conseguir pular um step e pegar grana direto com investidores institucionais americanos. Só conseguimos captar por causa da atuação fundamental dos nossos investidores (Valor e Redpoint) e da 500 Startups.
+
+Porque é assim que a banda toca?
+
+O mercado de venture capital é 90% relacionamento. Você precisa ser apresentado por gente que tem uma boa reputação (e tem uma reputação de conhecer muito bem o mercado brasileiro).
+O VC americano não quer nem pensar em correr o risco de investir sozinho num negócio brasileiro. Isso acontece pelo fato dele não conhecer o mercado local, nem as leis, nem ter um network que possa os ajudar localmente caso precise ou caso o empreendedor surte e decida focar só no Brasil.
+Eles nunca investiram diretamente em brasileiros antes. Exceto raríssimas exceções e isso aconteceu via colaboração com investidores brasileiros (ou americanos 100% focados no Brasil) bem conectados no vale. =D
+PS: Que fique claro que estou falando isso especificamente para todo tipo de rodada abaixo de series A.
+
+Finalmente…
+Eu sei que muita gente vai discordar da minha opinião e que eu irei comprar briga com muita, muita gente, inclusive grandes amigos. Aos queridos amigos founders de startups sensacionais que estão focados no mercado local e vão muito bem:
+
+Sei que há exceções em relação à tudo que estou falando.
+Respeito a opinião e a estratégia de vocês e espero que vocês respeitem o meu ponto de vista também.
+Assim como tem gente combatendo o trabalho escravo, defendendo a proteção do meio ambiente, defendendo os direitos da mulher, defendendo os direitos dos homossexuais, defendendo o maior incentivo à cultura, defendendo a liberação da maconha, eu defendo ser global desde o dia um, defendo que devemos ser o benchmark deles em nosso setor, defendo descer pro play pra ser o melhor do mundo desde o primeiro dia.
+
+Se os dinamarqueses (Zendesk), estonianos (Pipedrive), israelenses (Wix, Waze), alemães (Rocket Internet, SoundCloud, MindMeister, FoodPanda e DeliveryHero), franceses (Gameloft, Bla Bla Car), suecos (Spotify) e indianos (VWO, Freshdesk) conseguem crescer e dominar em seus respectivos setores atuando globalmente, por que nós brasileiros também não podemos ter o mesmo sucesso? Só porque somos brasileiros?
+
+Pense nisso… Essa é a minha bandeira e é assim que traçaremos o caminho do Pipefy, seja ele no final o caminho certo ou errado.
+
+Abraço de urso!
